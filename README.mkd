@@ -1,0 +1,21 @@
+# Clash Meziane / Clémence
+
+Input: an oriented graph, id of seed and target nodes.
+Output: produced target and dead\_end.
+
+## Initial idea
+Do it in [ASP](https://en.wikipedia.org/wiki/Answer_set_programming).
+Cf Meziane.
+
+## I want my reward
+Do it in Python: cf `encoding.py`
+
+
+## Under the hood
+Run python solution:
+
+    make py
+
+
+## Administrative part
+WTFPL Licence. I want my chocolate.
