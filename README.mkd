@@ -5,10 +5,13 @@ Output: produced target and dead\_end.
 
 ## Initial idea
 Do it in [ASP](https://en.wikipedia.org/wiki/Answer_set_programming).
-Cf Meziane.
+Cf Clémence.
 
 ## I want my reward
 Do it in Python: cf `encoding.py`
+
+Input graph should be given as a dict {node: successors}, see file ending lines for details.
+The used algorithm is a mix of topological sort of the graph and detection of used paths.
 
 
 ## Under the hood
@@ -18,4 +21,4 @@ Run python solution:
 
 
 ## Administrative part
-WTFPL Licence. I want my chocolate.
+[WTFPL Licence](http://www.wtfpl.net/). I want my chocolate.
