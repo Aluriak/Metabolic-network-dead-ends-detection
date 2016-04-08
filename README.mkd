@@ -7,7 +7,7 @@ Output: produced target and dead\_end.
 Do it in [ASP](https://en.wikipedia.org/wiki/Answer_set_programming).
 Cf Clémence.
 
-## I want my reward
+## For a fistful of chocolate
 Do it in Python: cf `encoding.py`
 
 Input graph should be given as a dict {node: successors}, see file ending lines for details.
